@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## 🤔 what am I doing?
 - 💼 I currently work at TecBan with a Back-end team.
-- 📚 I'm currently studying MySQL and JavaSript.
+- 📚 I'm currently studying C# and .Net
 - 🖥️ I have a favorite hobby: tinkering with hardware.
 ##
 
@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 <div style="display: inline_block">
   <img align="center" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
   <img align="center" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C# Icon" />
 </div>
 
 ##
