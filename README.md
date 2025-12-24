@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 
 ## 🤔 what am I doing?
-💼 Currently, I work at Vivo as a FrontEnd Web Developer.
-📚 Currently working with React, TS, Python, and MySQL.
-🖥️ I have a favorite hobby: tinkering with hardware.
+💼 Currently, I work at Vivo as a FrontEnd Web Developer. <br/>
+📚 Currently working with React, TS, Python, and MySQL.<br/>
+🖥️ I have a favorite hobby: tinkering with hardware.<br/>
 ##
 
 <div>
@@ -32,7 +32,6 @@ Here are some ideas to get you started:
 <div style="display: inline_block"><br>
   <img align="center" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
   <img align="center" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET Icon" />  
