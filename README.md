@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 
 ## 🤔 what am I doing?
-- 💼 I currently work at TecBan with a Back-end team.
-- 📚 I'm currently studying C# and .Net
-- 🖥️ I have a favorite hobby: tinkering with hardware.
+💼 Currently, I work at Vivo as a FrontEnd Web Developer.
+📚 Currently working with React, TS, Python, and MySQL.
+🖥️ I have a favorite hobby: tinkering with hardware.
 ##
 
 <div>
